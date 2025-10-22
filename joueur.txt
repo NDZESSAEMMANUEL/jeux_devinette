@@ -1,0 +1,2 @@
+le joueur emmanuel a un score de 5
+le joueur fredy a un score de 2
